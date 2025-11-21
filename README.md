@@ -1,7 +1,5 @@
 # Banco-Digital-Guardian-Bank
 
-# Banco Digital - Arquitetura Hexagonal em Java
-
 ## Descrição
 Projeto exemplo para banco digital utilizando arquitetura hexagonal, com as principais funcionalidades bancárias: abrir conta, depósito, saque e consulta de saldo.
 
