@@ -1,7 +1,7 @@
 # Banco-Digital-Guardian-Bank
 
 ## Descrição
-Projeto exemplo para banco digital utilizando arquitetura hexagonal, com as principais funcionalidades bancárias: abrir conta, depósito, saque e consulta de saldo.
+Projeto -  banco digital utilizando arquitetura hexagonal, com as principais funcionalidades bancárias: abrir conta, depósito, saque e consulta de saldo, é um banco extremante seguro para os dias de hoje.
 
 ## Estrutura
 - domain: entitades e regras de negócio.
